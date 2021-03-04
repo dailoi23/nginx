@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "joi": "^17.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5",
+    "node-rsa": "^1.1.1",
+    "sequelize": "^6.5.0",
+    "sequelize-auto": "^0.8.0",
+    "sequelize-cli": "^6.2.0",
+    "tedious": "^11.0.4"
+  }
+}
